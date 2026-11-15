@@ -1,0 +1,7 @@
+pandas
+langchain
+llama-index
+neo4j
+dotenv
+spacy
+matplotlib

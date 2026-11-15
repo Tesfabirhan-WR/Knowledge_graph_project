@@ -1,0 +1,5 @@
+.vscode
+data
+myenv
+notebooks/neo4j+s:
+notebooks/llm-kg.ipynb
