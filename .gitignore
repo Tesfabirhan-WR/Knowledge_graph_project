@@ -1,5 +1,5 @@
 .vscode
-.env
 data
 myenv
 notebooks/neo4j+s:
+.env
